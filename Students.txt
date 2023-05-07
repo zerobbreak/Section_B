@@ -1,0 +1,15 @@
+Annie Morris,11,Outdoor,2
+Lonnie Heriot,11,Indoor,3.5
+Morris Scotty,10,Indoor,1
+Lucius McNabb,10,Outdoor,8.5
+Gerhard Leaby,10,Indoor,3
+Hayden Haley,10,Outdoor,1.5
+Carl Rabey,10,Indoor,4
+Mary Gibbs,8,Outdoor,0
+Myron Rhoan,8,Outdoor,3.5
+Francisco Pettie,8,Indoor,2.5
+Bertrand Delaney,9,Indoor,3
+Mattie Rules,11,Outdoor,10
+Seth Maler,8,Both,0
+Justin Doyle,9,Both,4
+Bessie Monahan,12,Indoor,5
